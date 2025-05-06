@@ -12,12 +12,24 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@codemirror/autocomplete": "^6.18.6",
+    "@codemirror/lang-cpp": "^6.0.2",
+    "@codemirror/lang-css": "^6.3.1",
+    "@codemirror/lang-html": "^6.4.9",
+    "@codemirror/lang-java": "^6.0.1",
+    "@codemirror/lang-javascript": "^6.2.3",
+    "@codemirror/lang-python": "^6.2.0",
+    "@codemirror/view": "^6.36.7",
     "@google/genai": "^0.10.0",
+    "@uiw/codemirror-theme-vscode": "^4.23.12",
+    "@uiw/react-codemirror": "^4.23.12",
     "cores": "^0.8.5",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "mongoose": "^8.14.1",
+    "punycode": "^2.3.1",
+    "react-markdown": "^10.1.0",
     "socket.io": "^4.8.1"
   }
 }
